@@ -1,0 +1,8 @@
+
+pandas
+numpy
+scikit-learn
+ta
+python-binance
+joblib
+schedule
